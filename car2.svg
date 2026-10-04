@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240">
+  <rect width="420" height="240" rx="24" fill="#f0f3f5"/>
+  <path d="M72 146 L105 104 Q116 88 141 86 L281 86 Q306 87 321 105 L349 146 L359 153 L359 178 L61 178 L61 153 Z" fill="#26313b"/>
+  <rect x="130" y="101" width="66" height="39" rx="8" fill="#cfe0ea"/>
+  <rect x="204" y="101" width="75" height="39" rx="8" fill="#cfe0ea"/>
+  <circle cx="113" cy="176" r="25" fill="#202733"/>
+  <circle cx="310" cy="176" r="25" fill="#202733"/>
+  <circle cx="113" cy="176" r="10" fill="#d7dee5"/>
+  <circle cx="310" cy="176" r="10" fill="#d7dee5"/>
+  <rect x="65" y="151" width="30" height="9" rx="4" fill="#f2c14e"/>
+  <rect x="326" y="151" width="25" height="9" rx="4" fill="#d65a5a"/>
+  <text x="210" y="52" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" fill="#17202a">Kia Sportage</text>
+</svg>
